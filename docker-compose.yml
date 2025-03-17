@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver-documents
+    environment:
+      ACCEPT_EULA: Y
+      MSSQL_SA_PASSWORD: ${MSSQL_SA_PASSWORD}
+    ports:
+      - "${SQLSERVER_PORT}:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+    networks:
+      - app-network
+
+  # Backend API (.NET Core) [Pendiente]
+  # api:
+  #   build: ./backend
+  #   container_name: api-documents
+  #   environment:
+  #     - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=${SQLSERVER_DB};User Id=sa;Password=${MSSQL_SA_PASSWORD};TrustServerCertificate=True;
+  #   ports:
+  #     - "${API_PORT}:5001"
+  #   depends_on:
+  #     - sqlserver
+  #   networks:
+  #     - app-network
+
+  # Frontend React [Pendiente]
+  # frontend:
+  #   build: ./frontend
+  #   container_name: frontend-documents
+  #   ports:
+  #     - "${FRONTEND_PORT}:3000"
+  #   depends_on:
+  #     - api
+  #   networks:
+  #     - app-network
+
+volumes:
+  sqlserver-data:
+
+networks:
+  app-network:
+    driver: bridge

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|d:\\proyectos_vz\\pruebas\\pacificedgesystems\\documentprocessingapi\\documentprocessingapi\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|solutionrelative:documentprocessingapi\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|d:\\proyectos_vz\\pruebas\\pacificedgesystems\\documentprocessingapi\\documentprocessingapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|solutionrelative:documentprocessingapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|d:\\proyectos_vz\\pruebas\\pacificedgesystems\\documentprocessingapi\\documentprocessingapi\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|solutionrelative:documentprocessingapi\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|d:\\proyectos_vz\\pruebas\\pacificedgesystems\\documentprocessingapi\\documentprocessingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|solutionrelative:documentprocessingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|d:\\proyectos_vz\\pruebas\\pacificedgesystems\\documentprocessingapi\\documentprocessingapi\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|solutionrelative:documentprocessingapi\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|d:\\proyectos_vz\\pruebas\\pacificedgesystems\\documentprocessingapi\\documentprocessingapi\\models\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|solutionrelative:documentprocessingapi\\models\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|d:\\proyectos_vz\\pruebas\\pacificedgesystems\\documentprocessingapi\\documentprocessingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34FEDDB4-4B37-40DB-8679-1E9CB38455B0}|DocumentProcessingAPI\\DocumentProcessingAPI.csproj|solutionrelative:documentprocessingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "DocumentProcessingAPI\\Controllers\\DocumentController.cs",
+              "ToolTip": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "DocumentProcessingAPI\\Controllers\\DocumentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:00:07.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "DocumentProcessingAPI\\Models\\Document.cs",
+              "ToolTip": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\Models\\Document.cs",
+              "RelativeToolTip": "DocumentProcessingAPI\\Models\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:24:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadFileController.cs",
+              "DocumentMoniker": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\Controllers\\UploadFileController.cs",
+              "RelativeDocumentMoniker": "DocumentProcessingAPI\\Controllers\\UploadFileController.cs",
+              "ToolTip": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\Controllers\\UploadFileController.cs",
+              "RelativeToolTip": "DocumentProcessingAPI\\Controllers\\UploadFileController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAkwKgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:18:58.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentProcessingAPI\\Program.cs",
+              "ToolTip": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\Program.cs",
+              "RelativeToolTip": "DocumentProcessingAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:28:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DocumentProcessingAPI\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DocumentProcessingAPI\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:28:51.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UploadedFile.cs",
+              "DocumentMoniker": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\Models\\UploadedFile.cs",
+              "RelativeDocumentMoniker": "DocumentProcessingAPI\\Models\\UploadedFile.cs",
+              "ToolTip": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\Models\\UploadedFile.cs",
+              "RelativeToolTip": "DocumentProcessingAPI\\Models\\UploadedFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:24:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DocumentProcessingAPI\\appsettings.json",
+              "ToolTip": "D:\\Proyectos_Vz\\Pruebas\\PacificEdgeSystems\\DocumentProcessingAPI\\DocumentProcessingAPI\\appsettings.json",
+              "RelativeToolTip": "DocumentProcessingAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T20:27:14.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
