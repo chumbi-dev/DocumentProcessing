@@ -1,0 +1,144 @@
+# .NET Core Backend
+## Directorios de construcción
+bin/
+obj/
+out/
+
+## Archivos de usuario y configuración de IDE
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vs/
+.vscode/
+.idea/
+*.sln.iml
+*.dbmdl
+*.jfm
+
+## Archivos específicos de VS
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+## Archivos de publicación y empaquetado
+**/[Pp]ublish/
+**/[Pp]ackages/
+*.[Pp]ublish.xml
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+## Configuraciones locales y secretos
+appsettings.Development.json
+appsettings.local.json
+secrets.json
+*.pfx
+*.key
+*.Development.*
+
+## Logs y archivos temporales
+[Ll]ogs/
+[Ll]og/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tmp
+*.swp
+*.bak
+[Tt]emp/
+.DS_Store
+Thumbs.db
+
+# React Frontend
+## Dependencias
+node_modules/
+jspm_packages/
+bower_components/
+
+## Archivos compilados
+/build/
+/dist/
+/out/
+/.next/
+.nuxt/
+.cache/
+coverage/
+
+## Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+## Archivos de cache y debug
+.npm
+.eslintcache
+.stylelintcache
+.sass-cache/
+
+## Archivos específicos de herramientas
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.lock
+.turbo
+.yarn
+yarn-error.log
+*.tgz
+.pnp.*
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Visual Studio
+.localhistory/
+.HotReload/
+*.aab
+*.appx
+*.aar
+*.apk
+*.bsdesign
+*.binlog
+*.AppState.json
+
+# Database
+*.mdb
+*.ldb
+*.sqlite
+*.sqlite3
+*.db
+
+# Common
+*.class
+*.exe
+*.o
+*.so
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing
+TestResults/
+
+# Tool-specific files to ignore
+yarn.lock
+package-lock.json
+# Keep these files only if you're using a specific package manager
+# and want to ensure dependency version consistency
